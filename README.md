@@ -12,7 +12,7 @@ Clone the repo and then
 
 ```sh
 npm install
-npm run dev
+npm start
 ```
 
 Then go to `http://localhost:8080`.
